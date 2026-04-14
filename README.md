@@ -9,4 +9,4 @@ This repository contains a portfolio project focused on analyzing the Olist sale
 
 ## Portfolio Note
 
-This is a portfolio project built to demonstrate practical data analysis, storytelling, and dashboard delivery skills.
+This is a portfolio project built to demonstrate practical data analysis and storytelling
