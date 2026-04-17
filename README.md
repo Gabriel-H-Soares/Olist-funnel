@@ -10,3 +10,7 @@ This repository contains a portfolio project focused on analyzing the Olist sale
 ## Portfolio Note
 
 This is a portfolio project built to demonstrate practical data analysis and storytelling
+
+## Live Demo
+Quick access to the project visual via Streamlit:
+https://olist-funnel-fxzbryzdhkgsxs66ugxeg9.streamlit.app/
